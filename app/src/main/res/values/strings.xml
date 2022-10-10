@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="horaMensaje">18:30</string>
+    <string name="nombrePersona">Julián Bavid</string>
+    <string name="ultimoMensaje">Welcome to the jungle</string>
+    <string name="nombre">Nombre</string>
+    <string name="mensaje">Último mensaje recibido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="numeroTelefono">+573156368480</string>
+    <string name="pais">País</string>
+    <string name="nombrePais">Finlandía</string>
+</resources>
